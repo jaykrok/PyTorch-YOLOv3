@@ -1,4 +1,4 @@
-classes=80
+classes=15
 train=data/train/filepaths.txt
 valid=data/val/filepaths.txt
 names=data/coco.names
